@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+After importing this App to your local environment, first run this command in the terminal.
+
+`git install`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
